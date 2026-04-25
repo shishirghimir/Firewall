@@ -1,7 +1,6 @@
 # Firewall By C
 
 Updated by Shishir
-YOLO Update
 
 #include <stdio.h>
 #include <stdlib.h>
