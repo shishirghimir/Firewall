@@ -11,6 +11,13 @@
 
 **A lightweight, advanced packet-filtering firewall written in C**
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Language: C](https://img.shields.io/badge/Language-C11-orange.svg)]()
+[![Platform: Linux](https://img.shields.io/badge/Platform-Linux-green.svg)]()
+[![Build: libpcap](https://img.shields.io/badge/Requires-libpcap-lightgrey.svg)]()
+
+</div>
+
 ---
 
 ## ✨ Features
